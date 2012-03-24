@@ -46,5 +46,10 @@
 > >
 > > > Lv3
 
+# inline code
+
+use '<target>' tag
+
+''echo 'date'''
 
 
