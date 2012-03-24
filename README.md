@@ -9,6 +9,8 @@
 
 # list
 
+## ul
+
 * first
 * second
 * third
@@ -16,6 +18,7 @@
 	* child 2
 	* child 3
 
+## ol
 
 1. number 1
 2. number 2
@@ -24,13 +27,18 @@
 	2. child num 2
 	3. child num 3
 
-# bq
+# blockquote 
+
+## part1
 
 > こんな感じ
 > でしょうか
 
+## part2
 > おんなじ感じ
 になると思う
+
+## part3
 
 > Lv1
 > > Lv2
