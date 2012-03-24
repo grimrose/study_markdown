@@ -52,4 +52,9 @@ use '<target>' tag
 
 ''echo 'date'''
 
+# code block
+
+普通のテキスト
+
+	#comment <html>
 
