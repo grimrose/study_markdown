@@ -48,9 +48,9 @@
 
 # inline code
 
-use '<target>' tag
+use `<target>` tag
 
-''echo 'date'''
+``echo `date```
 
 # code block
 
