@@ -71,7 +71,8 @@ use `<target>` tag
 
 # emphasis
 
-*強調*したい
+_強調_したい
+
 **力強く**主張
 
 
