@@ -58,3 +58,15 @@ use `<target>` tag
 
 	#comment <html>
 
+# horizontal rule
+
+こんな
+* * *
+感じ
+***
+で
+- - -
+しょうか
+---
+
+
